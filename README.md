@@ -1,6 +1,10 @@
 # ABOUT ME
-🇮🇹 Italy\n
-📖 High School Student\n
-👨‍💻 Web developer - currently working on: https://github.com/Emanuele-maker/Emanuele-maker/CS-PhotoSport\n
-💙 Frontend: React\n
+🇮🇹 Italy
+<br />
+📖 High School Student
+<br />
+👨‍💻 Web developer - currently working on: https://github.com/Emanuele-maker/Emanuele-maker/CS-PhotoSport
+<br />
+💙 Frontend: React
+<br />
 🧡 Backend: Node
